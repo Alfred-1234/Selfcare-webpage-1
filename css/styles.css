@@ -8,7 +8,7 @@ conc{
     color: white;
     background-color: rgba(255,255,255);
     width: 400px;
-    margin-left: 20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   1q                                px;
+    margin-left: 20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   1q                        px;
     margin-top: 30px;
   }
   #submit {
@@ -70,6 +70,9 @@ conc{
       }
       a{
           color: orangered;
+      }
+      hi{
+        color: #ffffff;
       }
       
     
